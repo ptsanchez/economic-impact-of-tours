@@ -1,0 +1,39 @@
+Stop Number,Date (2018),Day of Week,City,State,Venue Name,Venue Size,Average Ticket Price,Concert Attendance,Avg. Hospitality Price Pre-Swift,Avg. Hospitality Price Post-Swift,Average Leisure & Hospitality Gains (in thousands),Average Inflation noted in CPI(%),Food Away From Home Percent Increase(%)
+1,May 8,Tuesday,Glendale,Arizona,University of Phoenix Stadium,63400,122,59157,,,4.7,1.19321,1.00552
+2,May 11,Friday,Santa Clara,California,Levi's Stadium,"68,500",130,53775,,,3.2,0.931473,0.432303
+3,May 12,Saturday,Santa Clara,California,Levi's Stadium,"68,500",130,53775,,,3.2,0.931473,0.432303
+4,May 18,Friday,Pasadena,California,Rose Bowl,"96,400",138,59042,,,1.6,0.397216,0.0652186
+5,May 19,Saturday,Pasadena,California,Rose Bowl,"96,400",138,59042,,,1.6,0.397216,0.0652186
+6,May 22,Tuesday,Seattle,Washington,CenturyLink Field,"68,740",155,56021,,,4.4,0.771709,0.255699
+7,May 25,Friday,Denver,Colorado,Sports Authority Field at Mile High,"85,000",139,57140,,,3.1,-0.173738,3.07823
+8,June 1,Friday,Chicago,Illinois,Soldier Field,"62,500",139,52604,,,3,-0.15487,0.553792
+9,June 2,Saturday,Chicago,Illinois,Soldier Field,"62,500",139,52604,,,3,-0.15487,0.553792
+10,June 30,Saturday,Louisville,Kentucky,Cardinal Stadium,"60,800",95,52138,,,-0.7,0.00674633,0.16
+11,July 7,Saturday,Columbus,Ohio,Ohio Stadium,"102,780",105,62897,,,-0.1,0.42863,0.34598
+12,July 10,Tuesday,Landover,Maryland,FedExField,"65,000",120,47836,,,2,0.115587,0.428331
+13,July 11,Wednesday,Landover,Maryland,FedExField,"65,000",120,47836,,,2,0.115587,0.428331
+14,July 13,Friday,Philadelphia,Pennsylvania,Lincoln Financial Field,"69,879",111,53689,,,-0.9,0.276957,0.135214
+15,July 14,Saturday,Philadelphia,Pennsylvania,Lincoln Financial Field,"69,879",111,53689,,,-0.9,0.276957,0.135214
+16,July 17,Tuesday,Cleveland,Ohio,FirstEnergy Stadium,"67,431",100,51323,,,-0.1,0.42863,0.34598
+17,July 20,Friday,East Rutherford,New Jersey,MetLife Stadium,"82,500",133,55218,,,0.3,0.134271,0.13691
+18,July 21,Saturday,East Rutherford,New Jersey,MetLife Stadium,"82,500",133,55218,,,0.3,0.134271,0.13691
+19,July 22,Sunday,East Rutherford,New Jersey,MetLife Stadium,"82,500",133,55218,,,0.3,0.134271,0.13691
+20,July 26,Thursday,Foxborough,Massachusetts,Gillette Stadium,"68,756",125,58254,,,6.2,-0.2,0.2589
+21,July 27,Friday,Foxborough,Massachusetts,Gillette Stadium,"68,756",125,58254,,,6.2,-0.2,0.2589
+22,July 28,Saturday,Foxborough,Massachusetts,Gillette Stadium,"68,756",125,58254,,,6.2,-0.2,0.2589
+23,August 7,Tuesday,Pittsburgh,Pennsylvania,Heinz Field,"73,117",110,56445,,,-0.9,0.276957,0.135214
+24,August 10,Friday,Atlanta,Georgia,Mercedes-Benz Stadium,"71,000",155,58373,,,2.2,0.6,1.11488
+25,August 11,Saturday,Atlanta,Georgia,Mercedes-Benz Stadium,"71,000",155,58373,,,2.2,0.6,1.11488
+26,August 14,Tuesday,Tampa,Florida,Raymond James Stadium,"75,000",130,55909,,,0,1.8,0.37972
+27,August 18,Saturday,Miami Gardens,Florida,Hard Rock Stadium,"64,767",148,47818,,,4,-0.3,0.872325
+28,August 25,Saturday,Nashville ,Tennessee,Nissan Stadium,"69,143",161,56112,,,2.8,0.5,0.16
+29,August 28,Tuesday,Detroit,Michigan,Ford Field,"70,000",133,49464,,,0.5,-0.628049,-0.8
+30,August 31,Friday,Minneapolis,Minnesota,U.S. Bank Stadium,"73,000",104,49387,,,-2.8,0.2,0.289761
+31,September 1,Saturday,Minneapolis,Minnesota,U.S. Bank Stadium,"73,000",104,49387,,,-2.8,0.2,0.289761
+32,September 8,Saturday,Kansas City,Kansas,Arrowhead Stadium,"76,416",115,58611,,,-0.6,0.734521,0.437895
+33,September 15,Saturday,Indianapolis,Indiana,Lucas Oil Stadium,"63,000",117,55729,,,0.2,0.003842,0.1
+34,September 18,Tuesday,St.Louis,Missouri,The Dome at America's Center,"67,277",102,47831,,,1.4,0.95731,0.6398
+35,September 22,Saturday,New Orleans,Louisiana,Mercedes-Benz Superdome,"73,208",122,54172,,,0.7,0.367943,0.23192
+36,September 29,Saturday,Houston,Texas,NRG Stadium,"80,000",174,53800,,,0.3,-0.1,0.33657
+37,October 5,Friday,Arlington,Texas,AT&T Stadium,"100,000",143,52501,,,1.6,0.42514,0.7938
+38,October 6,Saturday,Arlington,Texas,AT&T Stadium,"100,000",143,52501,,,1.6,0.42514,0.7938

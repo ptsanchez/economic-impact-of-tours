@@ -1,0 +1,54 @@
+Stop Number,Date,Day of Week,City,State,Venue Name,Venue Size,Average Ticket Price,Concert Attendance,Avg. Hospitality Price Pre-Swift,Avg. Hospitality Price Post-Swift,Average Leisure & Hospitality Gains (in thousands),Average Inflation noted in CPI(%),Food Away From Home Percent Increase(%)
+1,"March 17, 2023",Friday,Glendale,Arizona,State Farm Stadium,"78,600",250,"69,000",142,639,2.8,1.5278,0.563925
+2,"March 18, 2023",Saturday,Glendale,Arizona,State Farm Stadium,"78,600",250,77000,142,639,2.8,1.5278,0.563925
+3,"March 24, 2023",Friday,Paradise,Nevada,Allegiant Stadium,"71,835",200,40000,83,182,4.1,0.6,0.563925
+4,"March 25, 2023",Saturday,Paradise,Nevada,Allegiant Stadium,"71,835",200,40000,83,182,4.1,0.6,0.563925
+5,"March 31, 2023",Friday,Arlington,Texas,AT&T Stadium,"100,000",300,70202,126,300,3.2,0.797228,6
+6,"April 1, 2023",Saturday,Arlington,Texas,AT&T Stadium,"100,000",300,70202,126,300,3.2,0.797228,6
+7,"April 2, 2023",Sunday,Arlington,Texas,AT&T Stadium,"100,000",300,70202,126,300,3.2,0.797228,6
+8,"April 13, 2023",Thursday,Tampa,Florida,Raymond James Stadium,"75,000",315,68819,300,1000,2.7,1.71685,-2.1
+9,"April 14, 2023",Friday,Tampa,Florida,Raymond James Stadium,"75,000",315,68819,300,1000,2.7,1.71685,-2.1
+10,"April 15, 2023",Satuday,Tampa,Florida,Raymond James Stadium,"75,000",315,68819,300,1000,2.7,1.71685,-2.1
+11,"April 21, 2023",Friday,Houston,Texas,NRG Stadium,"80,000",288,62690,86,143,2,1.31481,5.4
+12,"April 22, 2023",Saturday,Houston,Texas,NRG Stadium,"80,000",288,62690,86,143,2,1.31481,5.4
+13,"April 23, 2023",Sunday,Houston,Texas,NRG Stadium,"80,000",288,62690,86,143,2,1.31481,5.4
+14,"April 28, 2023",Friday,Atlanta,Georgia,Mercedez-Benz Stadium,"71,000",289,65369,135,202,2.1,0.510476,4
+15,"April 29, 2023",Saturday,Atlanta,Georgia,Mercedez-Benz Stadium,"71,000",289,65369,135,202,2.1,0.510476,4
+16,"April 30, 2023",Sunday,Atlanta,Georgia,Mercedez-Benz Stadium,"71,000",289,65369,135,202,2.1,0.510476,4
+17,"May 5, 2023",Friday,Nashville,Tennessee,Nissan Stadium,"69,143",300,70667,126,225,2.2,,0.1
+18,"May 6, 2023",Saturday,Nashville,Tennessee,Nissan Stadium,"69,143",300,70667,126,225,2.2,,0.1
+19,"May 7, 2023",Sunday,Nashville,Tennessee,Nissan Stadium,"69,143",300,70667,126,225,2.2,,0.1
+20,"May 12, 2023",Friday,Philadelphia,Pennsylvania,Lincoln Financial Field,"69,879",306,67812,154,450,1.1,0.737323,0.4
+21,"May 13, 2023",Saturday,Philadelphia,Pennsylvania,Lincoln Financial Field,"69,879",306,67812,154,450,1.1,0.737323,0.4
+22,"May 14, 2023",Sunday,Philadelphia,Pennsylvania,Lincoln Financial Field,"69,879",306,67812,154,450,1.1,0.737323,0.4
+23,"May 19, 2023",Friday,Foxborough,Massachusetts,Gillette Stadium,"68,756",350,70000,250,750,3.9,-0.0557048,6.8
+24,"May 20, 2023",Saturday,Foxborough,Massachusetts,Gillette Stadium,"68,756",350,70000,250,750,3.9,-0.0557048,6.8
+25,"May 21, 2023",Sunday,Foxborough,Massachusetts,Gillette Stadium,"68,756",350,70000,250,750,3.9,-0.0557048,6.8
+26,"May 26, 2023",Friday,East Rutherford,New Jersey,MetLife Stadium,"82,500",253,72541,93,120,44.8,0.247798,0.3
+27,"May 27, 2023",Saturday,East Rutherford,New Jersey,MetLife Stadium,"82,500",253,72541,93,120,44.8,0.247798,0.3
+28,"May 28, 2023",Sunday,East Rutherford,New Jersey,MetLife Stadium,"82,500",253,72541,93,120,44.8,0.247798,0.3
+29,"June 2, 2023",Friday,Chicago,Illinois,Soldier Field,"62,500",300,63333,152,375,14.2,0.074802,2.8
+30,"June 3, 2023",Saturday,Chicago,Illinois,Soldier Field,"62,500",300,63333,152,375,14.2,0.074802,2.8
+31,"June 4, 2023",Sunday,Chicago,Illinois,Soldier Field,"62,500",300,63333,152,375,14.2,0.074802,2.8
+32,"June 9, 2023",Friday,Detroit,Michigan,Ford Field,"70,000",250,60000,269,337,1.1,1.11581,1.38897
+33,"June 10, 2023",Saturday,Detroit,Michigan,Ford Field,"70,000",250,60000,269,337,1.1,1.11581,1.38897
+34,"June 16, 2023",Friday,Pittsburgh,Pennsylvania,Acrisure Stadium,"73,117",364,73117,193,309,4.5,,
+35,"June 17, 2023",Saturday,Pittsburgh,Pennsylvania,Acrisure Stadium,"73,117",364,73117,193,309,4.5,,
+36,"June 23, 2023",Friday,Minneapolis,Minnesota,U.S. Bank Stadium,"73,000",300,60000,160,212,6.7,0.41993,5.9
+37,"June 24, 2023",Saturday,Minneapolis,Minnesota,U.S. Bank Stadium,"73,000",300,60000,160,212,6.7,0.41993,5.9
+38,"June 30, 2023",Friday,Cincinnati,Ohio,Paycor Stadium,"65,515",254,65000,232,784,4.9,2.5,2.3
+39,"July 1, 2023",Saturday,Cincinnati,Ohio,Paycor Stadium,"65,515",254,65000,232,784,4.9,2.5,2.3
+40,"July 7, 2023",Friday,Kansas City,Kansas,GEHA Field at Arrowhead Stadium,"76,416",212,55000,143,202,-0.5,,
+41,"July 8, 2023",Saturday,Kansas City,Kansas,GEHA Field at Arrowhead Stadium,"76,416",212,55000,143,202,-0.5,,
+42,"July 14, 2023",Friday,Denver,Colorado,Empower Field at Mile High,"85,000",250,70000,129,499,0,1.30542,1.43385
+43,"July 15, 2023",Saturday,Denver,Colorado,Empower Field at Mile High,"85,000",250,70000,129,499,0,1.30542,1.43385
+44,"July 22, 2023",Saturday,Seattle,Washington,Lumen Field,"77,286",484,72171,367,1088,0.8,0.794478,0.760459
+45,"July 23, 2023",Sunday,Seattle,Washington,Lumen Field,"77,286",484,71829,367,1088,0.8,0.794478,0.760459
+46,"July 28, 2023",Friday,Santa Clara,California,Levi's Stadium,"68,500",252,68500,93,208,0.8,5.561,0
+47,"July 29, 2023",Saturday,Santa Clara,California,Levi's Stadium,"68,500",252,68500,93,208,0.8,5.561,0
+48,"August 3, 2023",Thursday,Inglewood,California,So-Fi Stadium,"100,240",245,70240,169,239,1.2,5.561,0
+49,"August 4, 2023",Friday,Inglewood,California,So-Fi Stadium,"100,240",245,70240,169,239,1.2,5.561,0
+50,"August 5, 2023",Saturday,Inglewood,California,So-Fi Stadium,"100,240",245,70240,169,239,1.2,5.561,0
+51,"August 7, 2023",Monday,Inglewood,California,So-Fi Stadium,"100,240",245,70240,169,239,1.2,5.561,0
+52,"August 8, 2023",Tuesday,Inglewood,California,So-Fi Stadium,"100,240",245,70240,169,239,1.2,5.561,0
+53,"August 9, 2023",Wednesday,Inglewood,California,So-Fi Stadium,"100,240",245,70240,169,239,1.2,5.561,0
