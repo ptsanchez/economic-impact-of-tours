@@ -1,2 +1,7 @@
-# group65-sp24
-Public version of COGS 108 project
+# COGS 108 - Data Science in Practice Final Project
+
+Our project examines the economic impact of Taylor Swift's Eras Tour on local economies in North America between March 2023 and August 2023, to understand how factors such as venue size, average ticket price, and concert attendance influenced inflation in sectors including retail, hospitality, and the restaurant industry. By analyzing a dataset that includes variables such as hospitality prices and Consumer Price Index (CPI) inflation rates for each of the concerts, we aim to identify the economic impact linked to the tour.
+
+Our motivation for this project comes from the well-known cultural impact of Taylor Swift, including reports of economic boosts in cities hosting Eras Tour stops. Known as "Swiftonomics," there has been increased tourism, greater demand for local services, and inflation in many sectors. There have been speculation and news articles highlighting the tour's economic contributions, but we wanted to create a detailed, city-by-city analysis exploring the tour and its specific impact.
+
+Our findings show that cities on the Eras Tour route experienced significant increases in local economic activity. The data reveal a correlation between higher concert attendance and greater inflation rates, suggesting that the presence of Swift's fans played a critical role in increasing demand and prices. The results also bring to light that while major events such as the Eras tour can stimulate economic growth and job creation in cities, they may also cause issues related to inflation and affordability for local residents. Our research project contributes to a larger understanding of how economic dynamics can change due to major entertainment events and provides a framework for future research of similar events.
