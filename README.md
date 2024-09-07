@@ -1,4 +1,4 @@
-# COGS 108 - Data Science in Practice Final Project
+# COGS 108 - Data Science in Practice: Final Project
 
 Our project examines the economic impact of Taylor Swift's Eras Tour on local economies in North America between March 2023 and August 2023, to understand how factors such as venue size, average ticket price, and concert attendance influenced inflation in sectors including retail, hospitality, and the restaurant industry. By analyzing a dataset that includes variables such as hospitality prices and Consumer Price Index (CPI) inflation rates for each of the concerts, we aim to identify the economic impact linked to the tour.
 
